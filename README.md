@@ -22,28 +22,17 @@
 
 </p>
 
-### Towed Artillery to Database Administration
+### About Me
 
-I am a veteran of the United States Marine Corps. From working with hopwitzers to writing code, it's been an amazing journey. After working with data as part of a card access database, I initially sought a career in database administration and studied SQL, MSSQL Server administration, and Oracle Database.
+I am a Full-stack Software engineer with more than 4 years of experience. I have a bachelors degree in Computer Engineering and my tech-stack consists of _Python, Typescript, Django, React, React Native, NestJS Docker, Kubernetes, AWS, Microsoft Azure and SQL Databases_. My passion is to build _distributed software systems with mobile and web clients_ and I would love to work in a company that develops distributed computing systems in their products so that I can apply my knowledge with the support of talented co-workers. I would love to become a leader in tech someday and I am learning that now. One interesting fact about me is that _I am a music DJ_ and I love to do that whenever I get a chance.
 
-### Android Development
+### Music DJ to Software Development
 
-Android custom ROMs and graphics design launched my love for code, and made me realize I could make a career of something I enjoy. I've built custom frameworks, themes, and kernels. I have designed logos for developer teams and created hundreds of wallpapers.
+Right after college I decided to practice music dj'ing but I wasn't committed to it because I loved coding. And so I started to learn programming online, mostly at [Pluralsight](https://pluralsight.com), [Datacamp](https://datacamp.com) and [Codecademy](https://codecademy.com). I would build websites for [Interfrempa](https://interfrempacompanyltd.co.tz) and [Piminnovators](https://piminnovators.co.tz) and then [my website](https://gwamakacharles.netlify.app) where I posted my [Portfolio](gwamakacharles.netlify.app/portfolio) of projects I have been working on.
 
-### Vets Who Code and Front-End Development
+### Cloud Computing and Serverless Technologies
 
-I transitioned from database administration to front-end development after taking classes covering HTML, CSS, and JavaScript. While I enjoyed working with data, I found front-end web development to be more rewarding. It was at this point I discovered [Vets Who Code](https://vetswhocode.io/) and through this organization, studied front-end development. Working with, and learning from, veterans while developing skills has been an amazing and rewarding experience. I love using these new skills, while developing them further, to build cool stuff for others.
-
-### 🤘 Latest Tweets
-
-<!-- TWITTER:START -->
-
-- [@Colts: OTAs:OfficiallyTrainingAgain andStoked about it](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c30bef5d1ad940e849272d4ad4ef6056ddcda60fba36f74d817069565dd6be0)
-- [@usmcamgrimm:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f0ab6974d613079764d46ae7c5147e148d3a)
-- [@usmcamgrimm: One step closer to finishing my @GatsbyJS v3 upgrade. It's taken way longer than I originally thought but it's been a fun learning experience.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f0ab6974d615079664d36ee5cb107a14823b)
-- [@usmcamgrimm: GraphiQL is a wonderful tool!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f0ab697bd7160a9060d261e2c2167d148a3c)
-- [@usmcamgrimm: Seared pork loin in the oven, mushroom duxelle ready for the risotto, and then an apple reduction going on the stove. This is one of the 2 times a year I cook something special for my wife.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0a2cbfe2c3ef80088c8b6a88f10ba4482c9bc169f0ab6b78df1c079460d66ce6c2157e11833f)
-  TWITTER:END
+Two years ago I started to learn about Cloud Computing, and through the [GitHub Education]([Students - GitHub Education](https://education.github.com/students) program, I was able to subscribe to Microsoft Azure and Digital Ocean where I learned about 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwamakacharles&layout=compact&hide=makefile&theme=dracula" alt="Most used languages" /></p>
 
