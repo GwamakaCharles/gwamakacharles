@@ -17,8 +17,8 @@
     </a>
 </p>
 
-<p align="center">
-<a href="https://vetswhocode.io"><img src="https://github.com/usmcamgrimm/usmcamgrimm/blob/master/vwc.png" width="72px" height="72px" alt="VetsWhoCode hashflag" /></a>
+<!-- <p align="center">
+<a href="https://vetswhocode.io"><img src="https://github.com/usmcamgrimm/usmcamgrimm/blob/master/vwc.png" width="72px" height="72px" alt="VetsWhoCode hashflag" /></a> -->
 
 </p>
 
