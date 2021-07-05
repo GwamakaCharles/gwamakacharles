@@ -42,7 +42,7 @@ I started mobile apps development 2 years ago with Flutter and React Native. I u
 
 1. ### Build For Sustainable Development Goals Challenge - April 2019
 
-   I was selected to participate in the [#BuildforSDG Challenge with Andela and Facebook](https://developers.facebook.com/success-stories/andela/). I was part of the team that built an [online machine learning primer notebook](https://nbviewer.jupyter.org/github/GwamakaCharles/applied-machine-learning/blob/main/applied-machine-learning.ipynb). We used python and the Jupiter notebook platform.
+   I was selected to participate in the [#BuildforSDG Challenge with Andela and Facebook](https://developers.facebook.com/success-stories/andela/). I was part of the team that built an [online machine learning primer notebook](https://nbviewer.jupyter.org/github/GwamakaCharles/applied-machine-learning/blob/main/applied-machine-learning.ipynb) to teach computer science students the concepts of machine learning. We used Python and the Jupyter notebook platforms.
 
 2. ### Jim Leech Mastercard Foundation Fellowship - November 2020
    I was selected to participate in the [Jim Leech Mastercard Foundation Fellowship on Entrepreneurship | Queen's Innovation Centre (queensu.ca)](https://www.queensu.ca/innovationcentre/jim-leech-fellowship) where I tried to build a food delivery services startup. I used Typescript, Docker, Kubernetes, React Native, GraphQL, Azure Cache for Redis and Azure PostgreSQL technologies to build mobile and web clients and deployed the backend to Microsoft Azure. My startup was not selected amog the final 10! but I learned a lot about entrepreneurship, leadership and cloud technologies.
