@@ -28,7 +28,7 @@ I am a Full-stack Software engineer with more than 4 years of experience. I have
 
 ### Music DJ to Software Development
 
-Right after college I decided to practice music dj'ing but I wasn't committed to it because I loved coding. And so I started to learn programming online, mostly at [Pluralsight](https://pluralsight.com), [Datacamp](https://datacamp.com) and [Codecademy](https://codecademy.com). I would build websites for [Interfrempa](https://interfrempacompanyltd.co.tz) and [Piminnovators](https://piminnovators.co.tz) and then [my website](https://gwamakacharles.netlify.app) where I posted my [Portfolio](gwamakacharles.netlify.app/portfolio) of projects I have been working on.
+Right after college I decided to practice music dj'ing but I wasn't committed to it because I loved coding. And so I started to learn programming online, mostly at [Pluralsight](https://pluralsight.com), [Datacamp](https://datacamp.com) and [Codecademy](https://codecademy.com). I would build websites for [Interfrempa](https://interfrempacompanyltd.co.tz) and [Piminnovators](https://piminnovators.co.tz) and then [my website](https://gwamakacharles.netlify.app) where I posted my [Portfolio](https://gwamakacharles.netlify.app/projects) of projects I have been working on.
 
 ### Cloud Computing and Serverless Technologies
 
