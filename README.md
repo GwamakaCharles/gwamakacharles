@@ -32,7 +32,7 @@ Right after college I decided to practice music dj'ing but I wasn't committed to
 
 ### Cloud Computing and Serverless Technologies
 
-Two years ago I started to learn about Cloud Computing, and through the [GitHub Education]([Students - GitHub Education](https://education.github.com/students) program, I was able to subscribe to Microsoft Azure and Digital Ocean where I learned about 
+Two years ago I started to learn about Cloud Computing, and through the [Students - GitHub Education](https://education.github.com/students) program, I was able to subscribe to Microsoft Azure and Digital Ocean where I learned about 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwamakacharles&layout=compact&hide=makefile&theme=dracula" alt="Most used languages" /></p>
 
