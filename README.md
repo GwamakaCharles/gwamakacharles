@@ -24,7 +24,7 @@
 
 ### About Me
 
-I am a Full-stack Software engineer with more than 4 years of experience. I have a bachelors degree in Computer Engineering and my tech-stack consists of _Python, Typescript, Django, React, React Native, GraphQL, NestJS, Docker, Kubernetes, AWS, Microsoft Azure and SQL Databases_. My passion is to build _distributed software systems with mobile and web clients_ and I would love to work in a company that develops distributed computing systems in their products so that I can apply my knowledge with the support of talented co-workers. I would love to become a leader in tech someday and I am learning that now. One interesting fact about me is that _I am a music DJ_ and I love to do that whenever I get a chance.
+I am a Full-stack Software engineer with more than 7 years of experience. I have a bachelors degree in Computer Engineering and my tech-stack consists of _Python, Typescript, Django, React, React Native, GraphQL, NestJS, Docker, Kubernetes, AWS, Microsoft Azure and SQL Databases_. My passion is to build _distributed software systems with mobile and web clients_ and I would love to work in a company that develops distributed computing systems in their products so that I can apply my knowledge with the support of talented co-workers. I would love to become a leader in tech someday and I am learning that now. One interesting fact about me is that _I am a music DJ_ and I love to do that whenever I get a chance.
 
 ### Music DJ to Software Development
 
