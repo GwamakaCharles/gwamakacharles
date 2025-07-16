@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Gwamaka!</h1>
 
-![Gwamaka smiling](https://github.com/gwamakacharles/gwamakacharles/blob/master/photo.jpg)
+--- put a picture here ---
 
 <p align="center">
     <a href="https://gwamakacharles.netlify.app">
